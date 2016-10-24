@@ -1,0 +1,9 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "KinLeang",
+  "description": "จัดงานได้ง่ายๆ แค่ปลายนิ้ว",
+  "short_name": "kl",
+  "display": "fullscreen",
+  "background_color": "#ffffff"
+}

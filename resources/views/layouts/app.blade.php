@@ -8,8 +8,9 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Laravel</title>
-
+    <title>KinLeang : จัดงานได้ง่ายๆ แค่ปลายนิ้ว</title>
+    <!-- manifest -->
+    <link rel="manifest" href="manifest.webmanifest">
     <!-- Styles -->
     <link href="/css/app.css" rel="stylesheet">
 
